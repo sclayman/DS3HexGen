@@ -1,0 +1,1387 @@
+[
+ {
+   "hex": "4000006C",
+   "name": "Roster of Knights",
+   "notes": ""
+ },
+ {
+   "hex": "4000006F",
+   "name": "Cracked Red Eye Orb",
+   "notes": ""
+ },
+ {
+   "hex": "400000F0",
+   "name": "Divine Blessing",
+   "notes": ""
+ },
+ {
+   "hex": "400000F1",
+   "name": "Hidden Blessing",
+   "notes": ""
+ },
+ {
+   "hex": "400000F2",
+   "name": "Silver Pendant",
+   "notes": ""
+ },
+ {
+   "hex": "40000104",
+   "name": "Green Blossom",
+   "notes": ""
+ },
+ {
+   "hex": "40000106",
+   "name": "Budding Green Blossom",
+   "notes": ""
+ },
+ {
+   "hex": "4000010E",
+   "name": "Bloodred Moss Clump",
+   "notes": ""
+ },
+ {
+   "hex": "4000010F",
+   "name": "Purple Moss Clump",
+   "notes": ""
+ },
+ {
+   "hex": "40000110",
+   "name": "Blooming Purple Moss Clump",
+   "notes": ""
+ },
+ {
+   "hex": "40000112",
+   "name": "Purging Stone",
+   "notes": ""
+ },
+ {
+   "hex": "40000114",
+   "name": "Rime-blue Moss Clump",
+   "notes": ""
+ },
+ {
+   "hex": "40000115",
+   "name": "Monastery Charm",
+   "notes": ""
+ },
+ {
+   "hex": "40000118",
+   "name": "Repair Powder",
+   "notes": ""
+ },
+ {
+   "hex": "40000122",
+   "name": "Kukri",
+   "notes": ""
+ },
+ {
+   "hex": "40000124",
+   "name": "Firebomb",
+   "notes": ""
+ },
+ {
+   "hex": "40000125",
+   "name": "Dung Pie",
+   "notes": ""
+ },
+ {
+   "hex": "40000126",
+   "name": "Alluring Skull",
+   "notes": ""
+ },
+ {
+   "hex": "40000128",
+   "name": "Undead Hunter Charm",
+   "notes": ""
+ },
+ {
+   "hex": "40000129",
+   "name": "Black Firebomb",
+   "notes": ""
+ },
+ {
+   "hex": "4000012B",
+   "name": "Rope Firebomb",
+   "notes": ""
+ },
+ {
+   "hex": "4000012C",
+   "name": "Lightning Urn",
+   "notes": ""
+ },
+ {
+   "hex": "4000012D",
+   "name": "Holy Water Urn",
+   "notes": ""
+ },
+ {
+   "hex": "4000012E",
+   "name": "Rope Black Firebomb",
+   "notes": ""
+ },
+ {
+   "hex": "4000012F",
+   "name": "Stalk Dung Pie",
+   "notes": ""
+ },
+ {
+   "hex": "40000130",
+   "name": "Duel Charm",
+   "notes": ""
+ },
+ {
+   "hex": "40000136",
+   "name": "Throwing Knife",
+   "notes": ""
+ },
+ {
+   "hex": "40000137",
+   "name": "Poison Throwing Knife",
+   "notes": ""
+ },
+ {
+   "hex": "4000014A",
+   "name": "Charcoal Pine Resin",
+   "notes": ""
+ },
+ {
+   "hex": "4000014B",
+   "name": "Gold Pine Resin",
+   "notes": ""
+ },
+ {
+   "hex": "4000014E",
+   "name": "Human Pine Resin",
+   "notes": ""
+ },
+ {
+   "hex": "4000014F",
+   "name": "Carthus Rouge",
+   "notes": ""
+ },
+ {
+   "hex": "40000150",
+   "name": "Pale Pine Resin",
+   "notes": ""
+ },
+ {
+   "hex": "40000154",
+   "name": "Charcoal Pine Bundle",
+   "notes": ""
+ },
+ {
+   "hex": "40000155",
+   "name": "Gold Pine Bundle",
+   "notes": ""
+ },
+ {
+   "hex": "40000157",
+   "name": "Rotten Pine Resin",
+   "notes": ""
+ },
+ {
+   "hex": "4000015E",
+   "name": "Homeward Bone",
+   "notes": ""
+ },
+ {
+   "hex": "4000015F",
+   "name": "Coiled Sword Fragment",
+   "notes": ""
+ },
+ {
+   "hex": "4000016E",
+   "name": "Wolf's Blood Swordgrass",
+   "notes": ""
+ },
+ {
+   "hex": "4000016F",
+   "name": "Human Dregs",
+   "notes": ""
+ },
+ {
+   "hex": "40000170",
+   "name": "Forked Pale Tongue",
+   "notes": ""
+ },
+ {
+   "hex": "40000171",
+   "name": "Proof of a Concord Well Kept",
+   "notes": ""
+ },
+ {
+   "hex": "40000172",
+   "name": "Prism Stone",
+   "notes": ""
+ },
+ {
+   "hex": "40000173",
+   "name": "Binoculars",
+   "notes": ""
+ },
+ {
+   "hex": "40000174",
+   "name": "Proof of a Concord Kept",
+   "notes": ""
+ },
+ {
+   "hex": "40000175",
+   "name": "Pale Tongue",
+   "notes": ""
+ },
+ {
+   "hex": "40000176",
+   "name": "Vertebra Shackle",
+   "notes": ""
+ },
+ {
+   "hex": "40000177",
+   "name": "Sunlight Medal",
+   "notes": ""
+ },
+ {
+   "hex": "40000178",
+   "name": "Pendant",
+   "notes": ""
+ },
+ {
+   "hex": "40000179",
+   "name": "Dragon Head Stone",
+   "notes": ""
+ },
+ {
+   "hex": "4000017A",
+   "name": "Dragon Torso Stone",
+   "notes": ""
+ },
+ {
+   "hex": "4000017C",
+   "name": "Rubbish",
+   "notes": ""
+ },
+ {
+   "hex": "40000181",
+   "name": "Dried Finger",
+   "notes": ""
+ },
+ {
+   "hex": "40000183",
+   "name": "Twinkling Dragon Head Stone",
+   "notes": ""
+ },
+ {
+   "hex": "40000184",
+   "name": "Twinkling Dragon Torso Stone",
+   "notes": ""
+ },
+ {
+   "hex": "40000186",
+   "name": "Fire Keeper Soul",
+   "notes": ""
+ },
+ {
+   "hex": "40000190",
+   "name": "Fading Soul",
+   "notes": ""
+ },
+ {
+   "hex": "40000191",
+   "name": "Soul of a Deserted Corpse",
+   "notes": ""
+ },
+ {
+   "hex": "40000192",
+   "name": "Large Soul of a Deserted Corpse",
+   "notes": ""
+ },
+ {
+   "hex": "40000193",
+   "name": "Soul of an Unknown Traveler",
+   "notes": ""
+ },
+ {
+   "hex": "40000194",
+   "name": "Large Soul of an Unknown Traveler",
+   "notes": ""
+ },
+ {
+   "hex": "40000195",
+   "name": "Soul of a Nameless Soldier",
+   "notes": ""
+ },
+ {
+   "hex": "40000196",
+   "name": "Large Soul of a Nameless Soldier",
+   "notes": ""
+ },
+ {
+   "hex": "40000197",
+   "name": "Soul of a Weary Warrior",
+   "notes": ""
+ },
+ {
+   "hex": "40000198",
+   "name": "Large Soul of a Weary Warrior",
+   "notes": ""
+ },
+ {
+   "hex": "40000199",
+   "name": "Soul of a Crestfallen Knight",
+   "notes": ""
+ },
+ {
+   "hex": "4000019A",
+   "name": "Large Soul of a Crestfallen Knight",
+   "notes": ""
+ },
+ {
+   "hex": "4000019B",
+   "name": "Soul of a Proud Paladin",
+   "notes": ""
+ },
+ {
+   "hex": "4000019C",
+   "name": "Large Soul of a Proud Paladin",
+   "notes": ""
+ },
+ {
+   "hex": "4000019D",
+   "name": "Soul of an Intrepid Hero",
+   "notes": ""
+ },
+ {
+   "hex": "4000019E",
+   "name": "Large Soul of an Intrepid Hero",
+   "notes": ""
+ },
+ {
+   "hex": "4000019F",
+   "name": "Soul of a Seasoned Warrior",
+   "notes": ""
+ },
+ {
+   "hex": "400001A0",
+   "name": "Large Soul of a Seasoned Warrior",
+   "notes": ""
+ },
+ {
+   "hex": "400001A1",
+   "name": "Soul of an Old Hand",
+   "notes": ""
+ },
+ {
+   "hex": "400001A2",
+   "name": "Soul of a Venerable Old Hand",
+   "notes": ""
+ },
+ {
+   "hex": "400001A3",
+   "name": "Soul of a Champion",
+   "notes": ""
+ },
+ {
+   "hex": "400001A4",
+   "name": "Soul of a Great Champion",
+   "notes": ""
+ },
+ {
+   "hex": "400001B8",
+   "name": "Seed of a Giant Tree",
+   "notes": ""
+ },
+ {
+   "hex": "400001B9",
+   "name": "Spirit Amethyst",
+   "notes": ""
+ },
+ {
+   "hex": "400001BA",
+   "name": "Spirit Amethyst",
+   "notes": ""
+ },
+ {
+   "hex": "400001C2",
+   "name": "Oozing Charm Berry",
+   "notes": ""
+ },
+ {
+   "hex": "400001C3",
+   "name": "Oozing Flash Berry",
+   "notes": ""
+ },
+ {
+   "hex": "400001C4",
+   "name": "Mossfruit",
+   "notes": ""
+ },
+ {
+   "hex": "400001C5",
+   "name": "Brightbug",
+   "notes": ""
+ },
+ {
+   "hex": "400001C6",
+   "name": "Young White Branch",
+   "notes": ""
+ },
+ {
+   "hex": "400001C7",
+   "name": "Rusted Coin",
+   "notes": ""
+ },
+ {
+   "hex": "400001C8",
+   "name": "Siegbräu",
+   "notes": ""
+ },
+ {
+   "hex": "400001C9",
+   "name": "Rusted Gold Coin",
+   "notes": ""
+ },
+ {
+   "hex": "400001CA",
+   "name": "Blue Bug Pellet",
+   "notes": ""
+ },
+ {
+   "hex": "400001CB",
+   "name": "Red Bug Pellet",
+   "notes": ""
+ },
+ {
+   "hex": "400001CC",
+   "name": "Yellow Bug Pellet",
+   "notes": ""
+ },
+ {
+   "hex": "400001CD",
+   "name": "Black Bug Pellet",
+   "notes": ""
+ },
+ {
+   "hex": "400001CF",
+   "name": "Young White Branch",
+   "notes": ""
+ },
+ {
+   "hex": "400001EA",
+   "name": "Dark Sigil",
+   "notes": ""
+ },
+ {
+   "hex": "400001F4",
+   "name": "Ember",
+   "notes": ""
+ },
+ {
+   "hex": "40000208",
+   "name": "Hello Carving",
+   "notes": ""
+ },
+ {
+   "hex": "40000209",
+   "name": "Thank you Carving",
+   "notes": ""
+ },
+ {
+   "hex": "4000020A",
+   "name": "Very good! Carving",
+   "notes": ""
+ },
+ {
+   "hex": "4000020B",
+   "name": "I'm sorry Carving",
+   "notes": ""
+ },
+ {
+   "hex": "4000020C",
+   "name": "Help me! Carving",
+   "notes": ""
+ },
+ {
+   "hex": "400002C8",
+   "name": "Soul of Champion Gundyr",
+   "notes": ""
+ },
+ {
+   "hex": "400002C9",
+   "name": "Soul of a Wicked Spirit",
+   "notes": ""
+ },
+ {
+   "hex": "400002CA",
+   "name": "Soul of the Dancer",
+   "notes": ""
+ },
+ {
+   "hex": "400002CB",
+   "name": "Soul of a Crystal Sage",
+   "notes": ""
+ },
+ {
+   "hex": "400002CD",
+   "name": "Soul of the Blood of the Wolf",
+   "notes": ""
+ },
+ {
+   "hex": "400002CE",
+   "name": "Soul of Consumed Oceiros",
+   "notes": ""
+ },
+ {
+   "hex": "400002CF",
+   "name": "Soul of Boreal Valley Vordt",
+   "notes": ""
+ },
+ {
+   "hex": "400002D0",
+   "name": "Soul of the Old Demon King",
+   "notes": ""
+ },
+ {
+   "hex": "400002D1",
+   "name": "Soul of Dragonslayer Armour",
+   "notes": ""
+ },
+ {
+   "hex": "400002D2",
+   "name": "Soul of the Nameless King",
+   "notes": ""
+ },
+ {
+   "hex": "400002D3",
+   "name": "Soul of the Great Bat",
+   "notes": ""
+ },
+ {
+   "hex": "400002D4",
+   "name": "Soul of Pontiff Sulyvahn",
+   "notes": ""
+ },
+ {
+   "hex": "400002D5",
+   "name": "Soul of Aldrich",
+   "notes": ""
+ },
+ {
+   "hex": "400002D6",
+   "name": "Soul of High Lord Wolnir",
+   "notes": ""
+ },
+ {
+   "hex": "400002D7",
+   "name": "Soul of the Rotted Greatwood",
+   "notes": ""
+ },
+ {
+   "hex": "400002D8",
+   "name": "Soul of Rosaria",
+   "notes": ""
+ },
+ {
+   "hex": "400002D9",
+   "name": "Soul of the Deacons of the Deep",
+   "notes": ""
+ },
+ {
+   "hex": "400002DB",
+   "name": "Soul of the Twin Princes",
+   "notes": ""
+ },
+ {
+   "hex": "400002DC",
+   "name": "Soul of Yhorm the Giant",
+   "notes": ""
+ },
+ {
+   "hex": "400002DD",
+   "name": "Soul of the Lords",
+   "notes": ""
+ },
+ {
+   "hex": "400002E3",
+   "name": "Soul of a Demon",
+   "notes": ""
+ },
+ {
+   "hex": "400002E6",
+   "name": "Soul of the Twin Princes",
+   "notes": ""
+ },
+ {
+   "hex": "400002E7",
+   "name": "Soul of a Stray Demon",
+   "notes": ""
+ },
+ {
+   "hex": "400003E8",
+   "name": "Titanite Shard",
+   "notes": ""
+ },
+ {
+   "hex": "400003E9",
+   "name": "Large Titanite Shard",
+   "notes": ""
+ },
+ {
+   "hex": "400003EA",
+   "name": "Titanite Chunk",
+   "notes": ""
+ },
+ {
+   "hex": "400003EB",
+   "name": "Titanite Slab",
+   "notes": "Ban-Warning, you can have only 18 in one play through!"
+ },
+ {
+   "hex": "400003F2",
+   "name": "Dragon Scale",
+   "notes": ""
+ },
+ {
+   "hex": "400003FC",
+   "name": "Titanite Scale",
+   "notes": ""
+ },
+ {
+   "hex": "40000406",
+   "name": "Twinkling Titanite",
+   "notes": ""
+ },
+ {
+   "hex": "4000044C",
+   "name": "Heavy Gem",
+   "notes": ""
+ },
+ {
+   "hex": "40000456",
+   "name": "Sharp Gem",
+   "notes": ""
+ },
+ {
+   "hex": "40000460",
+   "name": "Refined Gem",
+   "notes": ""
+ },
+ {
+   "hex": "4000046A",
+   "name": "Crystal Gem",
+   "notes": ""
+ },
+ {
+   "hex": "40000474",
+   "name": "Simple Gem",
+   "notes": ""
+ },
+ {
+   "hex": "4000047E",
+   "name": "Fire Gem",
+   "notes": ""
+ },
+ {
+   "hex": "40000488",
+   "name": "Chaos Gem",
+   "notes": ""
+ },
+ {
+   "hex": "40000492",
+   "name": "Lightning Gem",
+   "notes": ""
+ },
+ {
+   "hex": "4000049C",
+   "name": "Deep Gem",
+   "notes": ""
+ },
+ {
+   "hex": "400004A6",
+   "name": "Dark Gem",
+   "notes": ""
+ },
+ {
+   "hex": "400004B0",
+   "name": "Poison Gem",
+   "notes": ""
+ },
+ {
+   "hex": "400004BA",
+   "name": "Blood Gem",
+   "notes": ""
+ },
+ {
+   "hex": "400004C4",
+   "name": "Raw Gem",
+   "notes": ""
+ },
+ {
+   "hex": "400004CE",
+   "name": "Blessed Gem",
+   "notes": ""
+ },
+ {
+   "hex": "400004D8",
+   "name": "Hollow Gem",
+   "notes": ""
+ },
+ {
+   "hex": "400004E2",
+   "name": "Shriving Stone",
+   "notes": ""
+ },
+ {
+   "hex": "400007D1",
+   "name": "Lift Chamber Key",
+   "notes": ""
+ },
+ {
+   "hex": "400007D3",
+   "name": "Bridge Key",
+   "notes": ""
+ },
+ {
+   "hex": "400007D4",
+   "name": "Iron Seal of the Wolf",
+   "notes": ""
+ },
+ {
+   "hex": "400007D5",
+   "name": "Small Doll",
+   "notes": ""
+ },
+ {
+   "hex": "400007D7",
+   "name": "Jailbreaker's Key",
+   "notes": ""
+ },
+ {
+   "hex": "400007D8",
+   "name": "Jailer's Key Ring",
+   "notes": ""
+ },
+ {
+   "hex": "400007D9",
+   "name": "Grave Key",
+   "notes": ""
+ },
+ {
+   "hex": "400007DA",
+   "name": "Cell Key",
+   "notes": ""
+ },
+ {
+   "hex": "400007DB",
+   "name": "Dungeon Ground Floor Key",
+   "notes": ""
+ },
+ {
+   "hex": "400007DC",
+   "name": "Old Cell Key",
+   "notes": ""
+ },
+ {
+   "hex": "400007DD",
+   "name": "Tower Key",
+   "notes": ""
+ },
+ {
+   "hex": "400007DE",
+   "name": "Grand Archives Key",
+   "notes": ""
+ },
+ {
+   "hex": "400007DF",
+   "name": "Tower Key",
+   "notes": ""
+ },
+ {
+   "hex": "40000835",
+   "name": "Holy Remains",
+   "notes": ""
+ },
+ {
+   "hex": "40000836",
+   "name": "Small Lothric Banner",
+   "notes": ""
+ },
+ {
+   "hex": "40000837",
+   "name": "Farron Coal",
+   "notes": ""
+ },
+ {
+   "hex": "40000838",
+   "name": "Sage's Coal",
+   "notes": ""
+ },
+ {
+   "hex": "40000839",
+   "name": "Giant's Coal",
+   "notes": ""
+ },
+ {
+   "hex": "4000083A",
+   "name": "Profaned Coal",
+   "notes": ""
+ },
+ {
+   "hex": "4000083B",
+   "name": "Mortician's Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "4000083C",
+   "name": "Dreamchaser's Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "4000083D",
+   "name": "Paladin's Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "4000083E",
+   "name": "Grave Warden's Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "4000083F",
+   "name": "Greirat's Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "40000840",
+   "name": "Orbeck's Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "40000841",
+   "name": "Cornyx's Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "40000842",
+   "name": "Karla's Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "40000843",
+   "name": "Irina's Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "40000844",
+   "name": "Yuria's Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "40000845",
+   "name": "Basin of Vows",
+   "notes": ""
+ },
+ {
+   "hex": "40000846",
+   "name": "Loretta's Bone",
+   "notes": ""
+ },
+ {
+   "hex": "40000847",
+   "name": "Braille Divine Tome of Carim",
+   "notes": ""
+ },
+ {
+   "hex": "40000848",
+   "name": "Braille Divine Tome of Lothric",
+   "notes": ""
+ },
+ {
+   "hex": "40000849",
+   "name": "Braille Divine Sunlight Tome",
+   "notes": ""
+ },
+ {
+   "hex": "4000084B",
+   "name": "Cinders of a Lord",
+   "notes": ""
+ },
+ {
+   "hex": "4000084C",
+   "name": "Cinders of a Lord",
+   "notes": ""
+ },
+ {
+   "hex": "4000084D",
+   "name": "Cinders of a Lord",
+   "notes": ""
+ },
+ {
+   "hex": "4000084E",
+   "name": "Cinders of a Lord",
+   "notes": ""
+ },
+ {
+   "hex": "4000084F",
+   "name": "Great Swamp Pyromancy Tome",
+   "notes": ""
+ },
+ {
+   "hex": "40000850",
+   "name": "Carthus Pyromancy Tome",
+   "notes": ""
+ },
+ {
+   "hex": "40000851",
+   "name": "Izalith Pyromancy Tome",
+   "notes": ""
+ },
+ {
+   "hex": "40000852",
+   "name": "Quelana Pyromancy Tome",
+   "notes": ""
+ },
+ {
+   "hex": "40000853",
+   "name": "Grave Warden Pyromancy Tome",
+   "notes": ""
+ },
+ {
+   "hex": "40000854",
+   "name": "Sage's Scroll",
+   "notes": ""
+ },
+ {
+   "hex": "40000855",
+   "name": "Logan's Scroll",
+   "notes": ""
+ },
+ {
+   "hex": "40000856",
+   "name": "Crystal Scroll",
+   "notes": ""
+ },
+ {
+   "hex": "40000857",
+   "name": "Transposing Kiln",
+   "notes": ""
+ },
+ {
+   "hex": "40000858",
+   "name": "Gwyndolin's Finger",
+   "notes": ""
+ },
+ {
+   "hex": "40000859",
+   "name": "Coiled Sword",
+   "notes": ""
+ },
+ {
+   "hex": "4000085A",
+   "name": "Eyes of a Fire Keeper",
+   "notes": ""
+ },
+ {
+   "hex": "4000085B",
+   "name": "Sword of Avowal",
+   "notes": ""
+ },
+ {
+   "hex": "4000085C",
+   "name": "Golden Scroll",
+   "notes": ""
+ },
+ {
+   "hex": "4000085D",
+   "name": "Estus Shard",
+   "notes": ""
+ },
+ {
+   "hex": "4000085E",
+   "name": "Hawkwood's Swordgrass",
+   "notes": ""
+ },
+ {
+   "hex": "4000085F",
+   "name": "Undead Bone Shard",
+   "notes": ""
+ },
+ {
+   "hex": "40000860",
+   "name": "Deep Braille Divine Tome",
+   "notes": ""
+ },
+ {
+   "hex": "40000861",
+   "name": "Londor Braille Divine Tome",
+   "notes": ""
+ },
+ {
+   "hex": "40000862",
+   "name": "Excrement-covered Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "40000863",
+   "name": "Prisoner Chief's Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "40000864",
+   "name": "Xanthous Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "40000865",
+   "name": "Hollow's Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "40000866",
+   "name": "Patches' Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "40000867",
+   "name": "Dragon Chaser's Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "40000868",
+   "name": "Easterner's Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "40002328",
+   "name": "Beckon",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002329",
+   "name": "Point forward",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "4000232A",
+   "name": "Hurrah!",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "4000232B",
+   "name": "Bow",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "4000232C",
+   "name": "Jump for joy",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "4000232D",
+   "name": "Duel bow",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "4000232E",
+   "name": "Wave",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "4000232F",
+   "name": "Praise the Sun",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002330",
+   "name": "Point up",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002331",
+   "name": "Point down",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002334",
+   "name": "Prostration",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002335",
+   "name": "Proper bow",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002336",
+   "name": "Prayer",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002337",
+   "name": "Welcome",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002338",
+   "name": "Joy",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002339",
+   "name": "My thanks!",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "4000233A",
+   "name": "Rejoice",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "4000233B",
+   "name": "Rest",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "4000233C",
+   "name": "By my sword",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "4000233D",
+   "name": "Dignified bow",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "4000233F",
+   "name": "Curl up",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002340",
+   "name": "Stretch out",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002341",
+   "name": "Call over",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002342",
+   "name": "Collapse",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002343",
+   "name": "Quiet Resolve",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002344",
+   "name": "Patches Squat",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002345",
+   "name": "Applause",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002346",
+   "name": "Path of the Dragon",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002347",
+   "name": "Legion Etiquette",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002348",
+   "name": "Darkmoon Loyalty",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "40002349",
+   "name": "Sleep",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "4000234A",
+   "name": "Toast",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "4000234B",
+   "name": "Silent Ally",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "4000234C",
+   "name": "Savage's Bow",
+   "notes": "Gestures can't be picked up!"
+ },
+ {
+   "hex": "400002E8",
+   "name": "Soul of Sister Friede",
+   "notes": ""
+ },
+ {
+   "hex": "40000869",
+   "name": "Champions Bones",
+   "notes": ""
+ },
+ {
+   "hex": "4000086A",
+   "name": "Captain's Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "4000086B",
+   "name": "Contraption Key",
+   "notes": ""
+ },
+ {
+   "hex": "4000013B",
+   "name": "Church Guardian Shiv",
+   "notes": ""
+ },
+ {
+   "hex": "4000017B",
+   "name": "Filianore's Spear Ornament",
+   "notes": ""
+ },
+ {
+   "hex": "4000028A",
+   "name": "Ritual Spear Fragment",
+   "notes": ""
+ },
+ {
+   "hex": "4000028B",
+   "name": "Divine Spear Fragment",
+   "notes": ""
+ },
+ {
+   "hex": "400002E9",
+   "name": "Soul of Slave Knight Gael",
+   "notes": ""
+ },
+ {
+   "hex": "400002EA",
+   "name": "Soul of the Demon Prince",
+   "notes": ""
+ },
+ {
+   "hex": "400002EB",
+   "name": "Soul of Darkeater Midir",
+   "notes": ""
+ },
+ {
+   "hex": "4000086C",
+   "name": "Small Envoy Banner",
+   "notes": ""
+ },
+ {
+   "hex": "4000086D",
+   "name": "Old Woman's Ashes",
+   "notes": ""
+ },
+ {
+   "hex": "4000086E",
+   "name": "Blood of the Dark souls",
+   "notes": ""
+ },
+ {
+   "hex": "4000086F",
+   "name": "Young Grass Dew",
+   "notes": ""
+ },
+ {
+   "hex": "00061A80",
+   "name": "Standard Arrow",
+   "notes": ""
+ },
+ {
+   "hex": "00061AE4",
+   "name": "Fire Arrow",
+   "notes": ""
+ },
+ {
+   "hex": "00061B48",
+   "name": "Poison Arrow",
+   "notes": ""
+ },
+ {
+   "hex": "00061BAC",
+   "name": "Large Arrow",
+   "notes": ""
+ },
+ {
+   "hex": "00061C10",
+   "name": "Feather Arrow",
+   "notes": ""
+ },
+ {
+   "hex": "00061C74",
+   "name": "Moonlight Arrow",
+   "notes": ""
+ },
+ {
+   "hex": "00061CD8",
+   "name": "Wood Arrow",
+   "notes": ""
+ },
+ {
+   "hex": "00061D3C",
+   "name": "Dark Arrow",
+   "notes": ""
+ },
+ {
+   "hex": "00062250",
+   "name": "Dragonslayer Greatarrow",
+   "notes": ""
+ },
+ {
+   "hex": "00062318",
+   "name": "Dragonslayer Lightning Arrow",
+   "notes": ""
+ },
+ {
+   "hex": "0006237C",
+   "name": "Onislayer Greatarrow",
+   "notes": ""
+ },
+ {
+   "hex": "00062A20",
+   "name": "Standard Bolt",
+   "notes": ""
+ },
+ {
+   "hex": "00062A84",
+   "name": "Heavy Bolt",
+   "notes": ""
+ },
+ {
+   "hex": "00062AE8",
+   "name": "Sniper Bolt",
+   "notes": ""
+ },
+ {
+   "hex": "00062B4C",
+   "name": "Wood Bolt",
+   "notes": ""
+ },
+ {
+   "hex": "00062BB0",
+   "name": "Lightning Bolt",
+   "notes": ""
+ },
+ {
+   "hex": "00062C14",
+   "name": "Splintering Bolt",
+   "notes": ""
+ },
+ {
+   "hex": "00062C78",
+   "name": "Exploding Bolt",
+   "notes": ""
+ }
+]

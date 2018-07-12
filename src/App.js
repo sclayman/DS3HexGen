@@ -23,15 +23,15 @@ class Search extends React.Component {
 
   render() {
     function genOptions(itemList) {
-      var items =[];
-      var item;
+      const items =[];
+      let item;
       for (item in itemList) {
         items.push(<option value={item}>{itemList[item].name}</option>)
       }
       return items
     }
-    var item;
-    var options = [];
+    let item;
+    const options = [];
     for (item in this.dataList) {
       options.push(<optgroup label={item}>{genOptions(this.dataList[item])}</optgroup>)
     }
@@ -43,14 +43,70 @@ class Search extends React.Component {
   }
 }
 
-class Infusions extends React.Component {
-  //TOOD: Create selector for Infusions
+class InfusionSelect extends React.Component {
+  infusions = {
+    "Regular" : 0,
+    "Heavy" : 100,
+    "Sharp" : 200,
+    "Refined" : 300,
+    "Simple" : 400,
+    "Crystal" : 500,
+    "Fire" : 600,
+    "Chaos" : 700,
+    "Lightning" : 800,
+    "Deep" : 900,
+    "Poison" : 1100,
+    "Blood" : 1200,
+    "Raw" : 1300,
+    "Blessed" : 1400,
+    "Hollow" : 1500
+  }
+  render () {
+    const options = [];
+    let option;
+    let infusion;
+    for (infusion in this.infusions) {
+      options.push(<option value={this.infusions[infusion]}>{infusion}</option>)
+    }
+    return (
+      <select>
+        {options}
+      </select>
+    )
+  }
+}
+
+class LevelSelect extends React.Component {
+  render () {
+    const options = [];
+    for (let i = 0; i <= 10; i++) {
+      options.push(<option value={i}>+{i}</option>)
+    }
+    return(
+      <select>
+        {options}
+      </select>
+    )
+  }
 }
 
 class App extends React.Component {
   render () {
     return (
-      <Search />
+      <div className='main'>
+        <div className="search">
+          <Search />
+        </div>
+        <div className="infusions">
+          <InfusionSelect />
+        </div>
+        <div className="levels">
+          <LevelSelect />
+        </div>
+        <div className="hex-display">
+          <HexDisplay />
+        </div>
+      </div>
     );
   }
 }

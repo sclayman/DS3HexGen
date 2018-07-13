@@ -8,7 +8,7 @@ import itemData from './data/items.json'
 
 function HexDisplay(props) {
   return (
-    <input className='hex-input' type='readonly' value={props.value} />
+    <input className='hex-input' type='readonly' value={props.hex} />
   );
 }
 
@@ -19,6 +19,10 @@ class Search extends React.Component {
     'Rings' : ringData,
     'Magic' : magicData,
     'Items' : itemData
+  }
+
+  change(i) {
+    this.setState({hex: weaponData[i.target.value].hex})
   }
 
   render() {
@@ -36,7 +40,7 @@ class Search extends React.Component {
       options.push(<optgroup label={item}>{genOptions(this.dataList[item])}</optgroup>)
     }
     return (
-      <select>
+      <select onChange={i => this.change(i)} value={item}>
         {options}
       </select>
     )
@@ -91,6 +95,21 @@ class LevelSelect extends React.Component {
 }
 
 class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      hex: ''
+    };
+  }
+
+  renderHex() {
+    return (
+      <HexDisplay
+        value={this.props.hex}
+      />
+    )
+  }
+
   render () {
     return (
       <div className='main'>
@@ -104,7 +123,7 @@ class App extends React.Component {
           <LevelSelect />
         </div>
         <div className="hex-display">
-          <HexDisplay />
+          {this.renderHex(this.state.hex)}
         </div>
       </div>
     );

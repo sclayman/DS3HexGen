@@ -22,7 +22,7 @@ class Search extends React.Component {
   }
 
   change(i) {
-    this.setState({hex: weaponData[i.target.value].hex})
+    this.setState({baseHex: weaponData[i.target.value].hex})
   }
 
   render() {
@@ -40,7 +40,7 @@ class Search extends React.Component {
       options.push(<optgroup label={item}>{genOptions(this.dataList[item])}</optgroup>)
     }
     return (
-      <select onChange={i => this.change(i)} value={item}>
+      <select onChange={i => this.change(i)}>
         {options}
       </select>
     )
@@ -98,7 +98,7 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      hex: ''
+      baseHex: ''
     };
   }
 

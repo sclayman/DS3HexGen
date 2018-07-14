@@ -8,7 +8,7 @@ import itemData from './data/items.json'
 
 function HexDisplay(props) {
   return (
-    <input className='hex-input' type='readonly' value={props.hex} />
+    <input type="text" className='hex-input' readonly value={props.hex} />
   );
 }
 
@@ -107,6 +107,15 @@ class App extends React.Component {
       <HexDisplay
         value={this.props.hex}
       />
+    )
+  }
+
+  addValue (i) {
+    if(typeof i = "string") {
+      i = parseInt(i, 16);
+    )
+    return (
+      i
     )
   }
 

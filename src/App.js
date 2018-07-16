@@ -19,6 +19,7 @@ class Search extends React.Component {
     function genOptions(itemList) {
       const items =[];
       let item;
+      //build the list of items
       for (item in itemList) {
         items.push(<option value={item}>{itemList[item].name}</option>)
       }
@@ -26,6 +27,7 @@ class Search extends React.Component {
     }
     let item;
     const options = [];
+    //nest the items in their respective subgroups
     for (item in this.dataList) {
       options.push(<optgroup label={item}>{genOptions(this.dataList[item])}</optgroup>)
     }
@@ -38,6 +40,7 @@ class Search extends React.Component {
 }
 
 class InfusionSelect extends React.Component {
+  //Infusions with their decimal values
   infusions = {
     "Regular" : 0,
     "Heavy" : 100,

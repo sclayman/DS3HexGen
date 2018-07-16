@@ -6,12 +6,6 @@ import ringData from './data/rings.json'
 import magicData from './data/magic.json'
 import itemData from './data/items.json'
 
-function HexDisplay(props) {
-  return (
-    <input type="text" className='hex-input' readonly value={props.hex} />
-  );
-}
-
 class Search extends React.Component {
   dataList = {
     'Weapons' : weaponData,
@@ -19,10 +13,6 @@ class Search extends React.Component {
     'Rings' : ringData,
     'Magic' : magicData,
     'Items' : itemData
-  }
-
-  change(i) {
-    this.setState({baseHex: weaponData[i.target.value].hex})
   }
 
   render() {
@@ -40,7 +30,7 @@ class Search extends React.Component {
       options.push(<optgroup label={item}>{genOptions(this.dataList[item])}</optgroup>)
     }
     return (
-      <select onChange={i => this.change(i)}>
+      <select onChange={this.props.handleSearchChange}>
         {options}
       </select>
     )
@@ -102,28 +92,19 @@ class App extends React.Component {
     };
   }
 
-  renderHex() {
-    return (
-      <HexDisplay
-        value={this.props.hex}
-      />
-    )
-  }
-
-  addValue (i) {
-    if(typeof i = "string") {
-      i = parseInt(i, 16);
-    )
-    return (
-      i
-    )
+  handleSearchChange(i) {
+    this.setState({baseHex: weaponData[i.target.value].hex});
   }
 
   render () {
+    const {hex} = this.state.baseHex;
+
     return (
       <div className='main'>
         <div className="search">
-          <Search />
+          <Search
+            handleSearchChange={this.handleSearchChange.bind(this)}
+          />
         </div>
         <div className="infusions">
           <InfusionSelect />
@@ -132,7 +113,7 @@ class App extends React.Component {
           <LevelSelect />
         </div>
         <div className="hex-display">
-          {this.renderHex(this.state.hex)}
+          <input value={this.state.baseHex} />
         </div>
       </div>
     );

@@ -66,7 +66,7 @@ class InfusionSelect extends React.Component {
       options.push(<option value={this.infusions[infusion]}>{infusion}</option>)
     }
     return (
-      <select>
+      <select onChange={this.props.handleInfusion}>
         {options}
       </select>
     )
@@ -80,7 +80,7 @@ class LevelSelect extends React.Component {
       options.push(<option value={i}>+{i}</option>)
     }
     return(
-      <select>
+      <select onChange={this.props.handleLevel}>
         {options}
       </select>
     )
@@ -91,12 +91,31 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      baseHex: ''
+      baseHex: '',
+      hex: '',
+      type: '',
+      canInfuse: false,
+      infusion: '',
+      maxLvl: '',
+      level: ''
     };
   }
 
   handleSearchChange(i) {
-    this.setState({baseHex: weaponData[i.target.value].hex});
+    const hex = weaponData[i.target.value].hex;
+    this.setState({
+      baseHex:hex,
+      hex: hex,
+      canInfuse: weaponData[i.target.value].infusable
+    });
+  }
+
+  handleInfusion(i) {
+    this.setState({infusion: i.target.value})
+  }
+
+  handleLevel(i) {
+    this.setState({level: i.target.value})
   }
 
   render () {
@@ -110,13 +129,16 @@ class App extends React.Component {
           />
         </div>
         <div className="infusions">
-          <InfusionSelect />
+          <InfusionSelect
+            handleInfusion={this.handleInfusion.bind(this)}
+          />
         </div>
         <div className="levels">
-          <LevelSelect />
+          <LevelSelect
+            handleLevel={this.handleLevel.bind(this)}/>
         </div>
         <div className="hex-display">
-          <input value={this.state.baseHex} />
+          <input value={this.state.hex} />
         </div>
       </div>
     );

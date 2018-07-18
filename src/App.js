@@ -111,11 +111,21 @@ class App extends React.Component {
   }
 
   handleInfusion(i) {
-    this.setState({infusion: i.target.value})
+    const infuseVal = parseInt(i.target.value)
+    this.setState({infusion: infuseVal})
+    const convertedDec = parseInt(this.state.hex, 16)
+    const newTot = convertedDec + infuseVal
+    const newHex = newTot.toString(16)
+    this.setState({hex: newHex})
   }
 
   handleLevel(i) {
-    this.setState({level: i.target.value})
+    const levelVal = parseInt(i.target.value)
+    this.setState({level: levelVal})
+    const convertedDec = parseInt(this.state.hex, 16)
+    const newTot = convertedDec + levelVal
+    const newHex = newTot.toString(16)
+    this.setState({hex: newHex})
   }
 
   render () {
@@ -135,7 +145,8 @@ class App extends React.Component {
         </div>
         <div className="levels">
           <LevelSelect
-            handleLevel={this.handleLevel.bind(this)}/>
+            handleLevel={this.handleLevel.bind(this)}
+          />
         </div>
         <div className="hex-display">
           <input value={this.state.hex} />

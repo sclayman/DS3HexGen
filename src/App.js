@@ -21,7 +21,7 @@ class Search extends React.Component {
       let item;
       //build the list of items
       for (item in itemList) {
-        items.push(<option value={item}>{itemList[item].name}</option>)
+        items.push(<option value={itemList[item].hex}>{itemList[item].name}</option>)
       }
       return items
     }
@@ -102,11 +102,11 @@ class App extends React.Component {
   }
 
   handleSearchChange(i) {
-    const hex = weaponData[i.target.value].hex;
+    const hex = i.target.value;
     this.setState({
       baseHex:hex,
       hex: hex,
-      canInfuse: weaponData[i.target.value].infusable
+      // canInfuse: weaponData[i.target.value].infusable
     });
   }
 

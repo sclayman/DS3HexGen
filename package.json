@@ -2,7 +2,7 @@
   "name": "ds3hexgen",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sclayman.github.io/DS3HexGen"
+  "homepage": "https://sclayman.github.io/DS3HexGen",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
